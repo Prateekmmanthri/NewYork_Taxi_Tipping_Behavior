@@ -22,16 +22,16 @@ We used a publicly available NYC Taxi dataset.
 
 
 **Key Insights**
-1. Longer durations and distances → higher tips: 
+1. **Longer durations and distances → higher tips:**
    Median tip increases with ride length and distance.
 
-2. Card payments lead to better tips: 
+2. **Card payments lead to better tips:**
    Compared to cash, passengers paying by card tip more frequently and generously.
 
-3. Rush hour patterns affect tipping: 
+3. **Rush hour patterns affect tipping:** 
    Morning and evening rush hours have higher trip volumes and more diverse tipping behavior.
 
-4. Passenger count has minimal effect: 
+4. **Passenger count has minimal effect:** 
    Tipping seems relatively independent of how many people are in the car.
 
 
